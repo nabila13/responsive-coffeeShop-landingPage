@@ -1,0 +1,16 @@
+.stat {
+    background: #d47f47;
+    color: white;
+    background-attachment: fixed;
+}
+
+.stat-items h2 {
+    font-weight: bold;
+    font-size: 42px;
+    color: white;
+}
+
+.stat p {
+    font-weight: bold;
+    letter-spacing: 1px;
+}

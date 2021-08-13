@@ -1,0 +1,110 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #778585;
+}
+
+header {
+    width: 100% !important;
+    /* background-image: url("../images/banner2.jpg"); */
+    background: url("https://preview.colorlib.com/theme/coffee/img/header-bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+.backs {
+    background-color: rgba(77, 25, 25, 0.561);
+    height: 7rem;
+    color-adjust: unset;
+    width: 100% !important;
+    z-index: 20;
+}
+
+.listed {
+    position: relative;
+    top: 10px;
+}
+
+.listed li {
+    list-style: none;
+}
+
+.navbar {
+    margin-bottom: 10rem;
+    z-index: 20;
+}
+
+.left {
+    margin-top: 7rem;
+}
+
+.left h1 {
+    font-size: 4rem;
+}
+
+.left button {
+    width: 9rem;
+}
+
+.coffee-mug {
+    margin-top: 5rem;
+}
+
+main {
+    background-color: #d3e4e4;
+}
+
+.topping {
+    margin-bottom: 8rem !important;
+}
+
+.feeling-part {
+    background-image: url("../images/bg_stick.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.feeling-part {
+    margin-top: 8rem !important;
+}
+
+.feeling-part p {
+    margin-top: -1.5rem !important;
+}
+
+.total-rows {
+    z-index: 5;
+}
+
+.total-rows .rows {
+    margin-bottom: -.1rem !important;
+}
+
+.total-rows .holding {
+    border-radius: .8rem !important;
+    overflow: hidden;
+    perspective: 1px;
+}
+
+.tiling-photos {
+    height: 32rem !important;
+    overflow: hidden;
+}
+
+.bottom-part .manual {
+    border-radius: 20px;
+    overflow: hidden;
+    height: 20rem !important;
+    width: 33rem !important;
+}
+
+
+/*
+.foots {
+    background-image: url("https://preview.colorlib.com/theme/coffee/img/footer-bg.jpg") !important;
+} */
